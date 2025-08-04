@@ -1,2 +1,2 @@
-# Data-analyst-Dashboard-Projects-
-A comprehensive data analysis and visualization project showcasing end-to-end skills in data cleaning, transformation, analysis, and interactive dashboard creation. This repository includes real-world datasets, SQL queries, Python (Pandas, Matplotlib, Seaborn) scripts, and Tableau/Power BI dashboards to extract actionable insights.
+🚀 Machine Learning Projects
+A collection of hands-on machine learning projects showcasing practical implementations of algorithms, data preprocessing, model training, and evaluation. From regression and classification to deep learning and NLP, this repository serves as a learning resource and portfolio for ML enthusiasts
